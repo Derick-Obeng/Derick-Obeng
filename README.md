@@ -1,4 +1,6 @@
 ## Hi there 👋
+Is Derick here a _student_ now at the **University of Ghana**.]
+Enrolled in CS
 
 <!--
 **Derick-Obeng/Derick-Obeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +24,8 @@ Here are some ideas to get you started:
 - 💬 Ask me if you want to or have anything to ask.
 - 📫 How to reach me, all link in my profile.
 - ⚡ Fun fact: live it up , let no one lie to you , learn more.
-![trying to see, it must. for it to go through.](https://images.app.goo.gl/1oNDHfPfFZ1uaxGU7)
+- 
+![Trying to see, it must. for it to go through, just a backed image.](https://images.app.goo.gl/1oNDHfPfFZ1uaxGU7)
 
 let say we all trynna make it 🥇.
 that is a great thing 👍
