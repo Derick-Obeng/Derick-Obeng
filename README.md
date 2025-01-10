@@ -1,5 +1,5 @@
 ## Hi there 👋
-Is Derick here a _student_ now at the **University of Ghana**.]
+Is Derick here a _student_ now at the **University of Ghana**.
 Enrolled in CS
 
 <!--
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me, all link in my profile.
 - ⚡ Fun fact: live it up , let no one lie to you , learn more.
 - 
-![Trying to see, it must. for it to go through, just a backed image.](https://images.app.goo.gl/1oNDHfPfFZ1uaxGU7)
+![Trying to see, it must. for it to go through, just a backed image.](https://goo.gl/1oNDHfPfFZ1uaxGU7)
 
 let say we all trynna make it 🥇.
 that is a great thing 👍
