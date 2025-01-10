@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,10 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![trying to see, it must. for it to go through.](/assets/images/electrocat.png)
+🔭 I’m currently working as a Backend Developer.
+- 🌱 I’m currently learning java as my main language.
+- 👯 I’m looking to collaborate on anything with anyone.
+- 🤔 I’m looking for help with organizations and enterprises.
+- 💬 Ask me if you want to or have anything to ask.
+- 📫 How to reach me, all link in my profile.
+- ⚡ Fun fact: live it up , let no one lie to you , learn more.
+![trying to see, it must. for it to go through.](https://images.app.goo.gl/1oNDHfPfFZ1uaxGU7)
 
 let say we all trynna make it 🥇.
 that is a great thing 👍
 and we all also wants it very early ⏩ 🚤
 never mind🙂 that's me 😆
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
