@@ -1,7 +1,7 @@
 ## Hi there 👋
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
-![Profile](https://github-readme-stats.vercel.app/api?username=DerickObeng&theme=default&show_icons=true&hide_border=true&count_private=true)
+![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
