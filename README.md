@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 
 
--let say we all trynna make it 🥇.
--that is a great thing 👍
+-let say we all trynna make it 🥇. 
+-that is a great thing 👍..
 -and we all also wants it very early ⏩ 🚤
--never mind🙂 that's me 😆
-
+-never mind🙂 that's me 😆.
+![some.](https://images.app.goo.gl/kiKrZvb87NbF296o9)
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
