@@ -4,6 +4,7 @@ Enrolled in CS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow?logo=javascript&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 
 
 
