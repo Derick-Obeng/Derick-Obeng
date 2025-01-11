@@ -1,7 +1,8 @@
 ## Hi there 👋
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
-
+![Status](https://img.shields.io/badge/status-active-brightgreen
+)
 <!--
 **Derick-Obeng/Derick-Obeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
