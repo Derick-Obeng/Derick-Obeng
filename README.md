@@ -26,7 +26,7 @@ Enrolled in CS
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&%20style=flat-square)
+![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=%20flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-fiineblue?logo=mysql&logoColor=black&style=flat-square)
 
 
