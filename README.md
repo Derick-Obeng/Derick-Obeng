@@ -1,6 +1,7 @@
 ## Hi there 👋
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
+![Profile](https://github-readme-stats.vercel.app/api?username=DerickObeng&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 
 
 
-![Profile](https://img.shields.io/badge/Derrick%20Obeng-B%20Grade-Java-orange?logo=java&logoColor=white&style=flat-square)
 
 
 
@@ -51,5 +51,6 @@ Here are some ideas to get you started:
 -that is a great thing 👍..
 -and we all also wants it very early ⏩ 🚤
 -never mind🙂 that's me 😆.
-![some.](https://images.app.goo.gl/kiKrZvb87NbF296o9)
+
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
