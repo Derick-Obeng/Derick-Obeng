@@ -6,7 +6,7 @@ Enrolled in CS
 
 
 
-![Grade](https://img.shields.io/badge/brightgreen)
+![Grade](https://img.shields.io/badge/c-brightgreen)
 ![P](https://img.shields.io/badge/Java-orange)
 
 
