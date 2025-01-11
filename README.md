@@ -4,10 +4,10 @@ Enrolled in CS
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/Java-Java-orange?logo=java&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
 
 
-![Status](https://img.shields.io/badge/status-active-brightgreen
+![Status](https://img.shields.io/badge/status-active-brightgreen?java&logoColor=white&style=flat-square
 )
 <!--
 **Derick-Obeng/Derick-Obeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
