@@ -9,6 +9,9 @@ Enrolled in CS
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen?java&logoColor=white&style=flat-square
 )
+
+![Profile](https://img.shields.io/badge/Derrick%20Obeng-B%20Grade%20-%20Java-orange?logo=java&logoColor=white&style=flat-square)
+
 <!--
 **Derick-Obeng/Derick-Obeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
