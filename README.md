@@ -2,6 +2,7 @@
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
 
+![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow?logo=javascript&logoColor=white)
 
 
 
