@@ -6,8 +6,8 @@ Enrolled in CS
 
 
 
-![Grade](https://img.shields.io/badge/Grade-A-brightgreen)
-![P](https://img.shields.io/badge/Preferred%20Language-Java-orange)
+![Grade](https://img.shields.io/badge/brightgreen)
+![P](https://img.shields.io/badge/Java-orange)
 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen
