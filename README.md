@@ -1,6 +1,15 @@
 ## Hi there 👋
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
+
+
+
+
+![Name](https://img.shields.io/badge/Name-Derrick%20Obeng-blue)
+![Grade](https://img.shields.io/badge/Grade-A-brightgreen)
+![Preferred Language](https://img.shields.io/badge/Preferred%20Language-Java-orange)
+
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen
 )
 <!--
