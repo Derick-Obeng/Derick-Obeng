@@ -5,10 +5,13 @@ Enrolled in CS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen?java&logoColor=white&style=flat-square
 )
+
 
 
 
@@ -39,9 +42,14 @@ Here are some ideas to get you started:
 - 
 
 
-let say we all trynna make it 🥇.
-that is a great thing 👍
-and we all also wants it very early ⏩ 🚤
-never mind🙂 that's me 😆
+
+![Profile](https://img.shields.io/badge/Derrick%20Obeng-B%20Grade-Java-orange?logo=java&logoColor=white&style=flat-square)
+
+
+
+-let say we all trynna make it 🥇.
+-that is a great thing 👍
+-and we all also wants it very early ⏩ 🚤
+-never mind🙂 that's me 😆
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
