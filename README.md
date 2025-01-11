@@ -1,14 +1,32 @@
 ## Hi there 👋
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
-![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+
+
+
+![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=Derick%20Obeng's%20GitHub%20Stats)
+
+
+
+
+
 
 ![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats
 )
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
+
+
+
+
+
 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen?java&logoColor=white&style=flat-square
