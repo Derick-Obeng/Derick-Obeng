@@ -2,14 +2,9 @@
 Is **Derick** here a _student_ now at the **University of Ghana**.
 Enrolled in CS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow?logo=javascript&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-
-
-
-![Grade](https://img.shields.io/badge/c-brightgreen)
-![P](https://img.shields.io/badge/Java-orange)
+![Java](https://img.shields.io/badge/Java-Java-orange?logo=java&logoColor=white&style=flat-square)
 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen
