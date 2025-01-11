@@ -12,14 +12,16 @@ Enrolled in CS
 
 
 
-![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats
-)
+![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
 
 
 
-![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true
-)
+![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true)
+
+
+
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
