@@ -8,12 +8,10 @@
 
 
 
-![228](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true&show_icons=true)
+
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
-![bpn](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true&show_icons=true
-)
 
 
 
