@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Derick** here
+--**Derick** here
 
 
 
@@ -88,9 +88,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: live it up , let no one lie to you , learn more.
 - 
 
---
+
+
+----
+
 my Roadmap projects: https://roadmap.sh/projects/github-user-activity/solutions?u=669f90b5da00e39c49d629ff
---
+
+----
 
 
 
