@@ -21,7 +21,7 @@
 
 -----
 
-![contibutes](https://github-readme-streak-stats.herokuapp.com/api?username=DerrickObeng&theme=default&show_icon=true&hide_border=true)
+![contibutes](https://github-readme-streak-stats.herokuapp.com/api?user=DerrickObeng&theme=default&hide_border=true)
 
 ----
 
@@ -29,8 +29,7 @@
 
 -
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/Java-%23F7B93E?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%30orange?logo=java&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=flat-square)
