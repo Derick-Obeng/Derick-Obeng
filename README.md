@@ -21,7 +21,7 @@
 
 -----
 
-![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true)
+![contibutes](https://github-readme-streak-stats.herokuapp.com/api?username=DerrickObeng&theme=default&show_icon=true&hide_border=true)
 
 ----
 
@@ -30,12 +30,13 @@
 -
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-%23F7B93E?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=%20flat-square)
+![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-fiineblue?logo=mysql&logoColor=black&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-orange?logo=css3&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-%30blue?logo=html5&logoColor=orange&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=orange&style=flat-square)
 
 -
 
