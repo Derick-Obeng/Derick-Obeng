@@ -1,6 +1,10 @@
 ## Hi there 👋
-Is **Derick** here a _student_ now at the **University of Ghana**.
-Enrolled in CS
+**Derick** here
+
+
+
+**i'm a BACKEND DEVELOPER**.
+
 
 
 
@@ -30,7 +34,7 @@ Enrolled in CS
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=%20flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-fiineblue?logo=mysql&logoColor=black&style=flat-square)
-
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css&logoColor=orange&style=flat-rectangle)
 
 ![Sql](https://img.shields.io/badge/SQL-yellow?logo=sql&logoColor=blue&style=flat-square)![Mongo](https://img.shields.io/badge/Mongo-green?logo=mongo&logoColor=white&style=flat-square)
 
@@ -81,4 +85,4 @@ Here are some ideas to get you started:
 -never mind🙂 that's me 😆.
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://avatars0.githubusercontent.com/u/14798731?s=400&v=4)
