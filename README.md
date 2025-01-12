@@ -19,12 +19,11 @@
 ![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
 
--
+-----
 
-![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=default&hide_border=true
-)
+![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true)
 
--
+----
 
 
 
@@ -36,7 +35,7 @@
 ![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=%20flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-fiineblue?logo=mysql&logoColor=black&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-orange?logo=css3&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=orange&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-%30blue?logo=html5&logoColor=orange&style=flat-square)
 
 -
 
