@@ -19,29 +19,31 @@
 ![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
 
+-
+
+![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=default&hide_border=true
+)
+
+-
 
 
-![contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true)
 
-
-
-
-
-
+-
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=%20flat-square)
 ![Mysql](https://img.shields.io/badge/MySQL-fiineblue?logo=mysql&logoColor=black&style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-orange?logo=css&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-blue?logo=html&logoColor=orange&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-orange?logo=css3&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=orange&style=flat-square)
 
-
+-
 
 ----
 
 ![CSS](https://img.shields.io/badge/CSS-%23A8B9CC?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ---
