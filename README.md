@@ -8,10 +8,11 @@
 
 
 
+![228](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true&show_icons=true)
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
-
+![bpn](https://camo.githubusercontent.com/657ae2633141edae973c8ef3eb62762e823396ba5af90d10a543bfa2fdc8ff19/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6165797465652673686f775f69636f6e733d74727565)
 
 
 
@@ -29,7 +30,7 @@
 
 -
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/Java-%30orange?logo=java&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-white0orange?logo=java&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logocolor=white&style=flat-square)
@@ -100,3 +101,4 @@ Here are some ideas to get you started:
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://avatars0.githubusercontent.com/u/14798731?s=400&v=4)
+
