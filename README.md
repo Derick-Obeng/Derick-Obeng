@@ -45,6 +45,8 @@
 
 ![CSS](https://img.shields.io/badge/CSS-%23A8B9CC?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ---
