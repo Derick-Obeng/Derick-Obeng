@@ -22,7 +22,9 @@
 
 -----
 
-![Contibutes](https://githubusercontent-readme-streak-stats.herokuapp.com/api?username=DerrickObeng&theme=default&hide_border=true)
+![Contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true&show_icon=true)
+
+![2n](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=default&hide_border=true&show_icons=true)
 
 ----
 
