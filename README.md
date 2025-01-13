@@ -10,7 +10,7 @@
 **i'm a BACKEND DEVELOPER**.
 
 
-![PO](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=dark&show_icon=true&hide_border=fale&include_all_commits=false&count_private=true&custom_title=Derick%20Obeng's%20GitHub%20Stats)
+![PO](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=dark&show_icon=true&hide_border=fale&include_all_commits=true&count_private=true&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&count_private=true&hide_border=false&rank_icon=C&rank_fill=half&include_all_commits=true&custom_title=Derick%20Obeng's%20GitHub%20Stats)
