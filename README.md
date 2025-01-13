@@ -106,5 +106,5 @@ my Roadmap projects: https://roadmap.sh/projects/github-user-activity/solutions?
 -never mind🙂 that's me 😆.
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://avatars0.githubusercontent.com/u/14798731?s=300&v=4)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://avatars0.githubusercontent.com/u/33798731?s=600&v=3)
 
