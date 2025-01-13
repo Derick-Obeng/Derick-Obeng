@@ -17,7 +17,7 @@
 
 
 
-![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats&show_icon=tue)
+![me](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=Derick%20Obeng's%20GitHub%20Stats&show_icon=Derrickobeng)
 
 
 -----
