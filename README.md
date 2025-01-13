@@ -10,7 +10,7 @@
 **i'm a BACKEND DEVELOPER**.
 
 
-
+![Pondinyme](https://github-readme-streak-stats.vercel.app/?user=octocat&theme=default&hide_border=true&show_icons=true)
 
 
 
@@ -26,7 +26,7 @@
 
 -----
 
-![contibutes](https://githubusercontent-readme-streak-stats.herokuapp.com/api?username=DerrickObeng&theme=default&hide_border=true)
+![Contibutes](https://githubusercontent-readme-streak-stats.herokuapp.com/api?username=DerrickObeng&theme=default&hide_border=true)
 
 ----
 
