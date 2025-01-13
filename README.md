@@ -10,7 +10,7 @@
 **i'm a BACKEND DEVELOPER**.
 
 
-![2286](https://camo.githubusercontent.com/657ae2633141edae973c8ef3eb62762e823396ba5af90d10a543bfa2fdc8ff19/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6165797465652673686f775f69636f6e733d74727565)
+
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&count_private=true&hide_border=true&rank_icon=C&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
