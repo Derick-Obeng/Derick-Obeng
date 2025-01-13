@@ -14,7 +14,7 @@
 
 
 
-![Profile](https://github-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=C&custom_title=Derick%20Obeng's%20GitHub%20Stats)
+![Profile](https://camo.githubusercontent.com-readme-stats.vercel.app/api?username=DerrickObeng&theme=default&show_icons=true&hide_border=true&count_private=true&rank_icon=C&custom_title=Derick%20Obeng's%20GitHub%20Stats)
 
 
 
@@ -25,7 +25,7 @@
 
 -----
 
-![contibutes](https://github-readme-streak-stats.herokuapp.com/api?user=DerrickObeng&theme=default&hide_border=true)
+![contibutes](https://githubusercontent-readme-streak-stats.herokuapp.com/api?user=DerrickObeng&theme=default&hide_border=true)
 
 ----
 
