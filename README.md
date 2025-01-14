@@ -15,9 +15,10 @@
 I’m currently using JavaScript and java as my main language.<br>👯 I’m looking to collaborate on anything with anyone.<br>🤔 I’m looking for help with organizations and enterprises.<br>💬 Ask me if you want to or have anything to ask.<br>📫 How to reach me, all link in my profile.<br>⚡ Fun fact: live it up , let no one lie to you , learn more.  
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&show_icon=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&show_icon=treu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Derick-Obeng&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Derick-Obeng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Derick-Obeng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Obeng&them=materail-palenight&repo=github-readme-stats)](https://github.com/Derick-Obeng/github-readme-stats)
 
 
 ---
