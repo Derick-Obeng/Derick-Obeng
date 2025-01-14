@@ -1,8 +1,13 @@
-# Hi there 👋 it's Derick here
+
+
+# Hi there 👋
+
+ 
+## it's Derick here
 
 
 
---
+---
 
 
 **i'm a BACKEND DEVELOPER**.
@@ -13,13 +18,13 @@ I’m currently using JavaScript and java as my main language.<br>👯 I’m loo
 ![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&show_icon=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Derick-Obeng&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Derick-Obeng&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Contibutes](https://github-readme-streak-stats.herokuapp.com/?user=DerrickObeng&theme=default&hide_border=true&show_icon=true&count_icon=5)
 
---
+
+---
 ### 🔝 Top Repos
-![](https://github-contributor-stats.vercel.app/api?username=Derick-Obeng&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Derick-Obeng&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
---  
+--- 
 ## Techs
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)
@@ -27,12 +32,12 @@ I’m currently using JavaScript and java as my main language.<br>👯 I’m loo
 ![Node](https://img.shields.io/badge/Node.js-%23A8B9CC?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
---
+---
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
---
+---
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-white0orange?logo=openjdk&logoColor=white&style=flat-square)
@@ -43,7 +48,7 @@ I’m currently using JavaScript and java as my main language.<br>👯 I’m loo
 ![CSS](https://img.shields.io/badge/CSS-orange?logo=css3&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=orange&style=flat-square)
 
---
+---
 
 ![Sql](https://img.shields.io/badge/SQL-yellow?logo=sql&logoColor=blue&style=flat-square)![Mongo](https://img.shields.io/badge/Mongo-green?logo=mongo&logoColor=white&style=flat-square)
 
