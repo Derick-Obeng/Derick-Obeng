@@ -63,20 +63,20 @@ I’m currently using JavaScript and java as my main language.<br>👯 I’m loo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/do.a_doa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DerrickObeng&style=flat-square) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@22_Samuel_TS&style=flat-square) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Derrobe&style=flat-square) 
 
 
+---
+  ## 💰 You can Donate me a 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Support)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Derick-Obeng&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
 
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Derick-Obeng&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can Donate me a 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Support) 
+ 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
