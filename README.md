@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 - 💬 Ask me if you want to or have anything to ask.
 - 📫 How to reach me, all link in my profile.
 - ⚡ Fun fact: live it up , let no one lie to you , learn more.
-- 
+-  
 
 
 
