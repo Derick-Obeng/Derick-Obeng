@@ -3,16 +3,16 @@
 # Hi there 👋 
  
  
-## it's Derick here  
+## 😎it's Derick here  
  
   
 
 ---
 
 
-**i'm a BACKEND DEVELOPER**.
+**a FULL STACk DEVELOPER | DevOPs | Cyber intrested**.
 
-I’m currently using JavaScript and java as my main language.<br> I’m looking to collaborate on anything with anyone.<br> I’m looking for help with organizations and enterprises.<br> Ask me if you want to or have anything to ask.<br> How to reach me, all link in my profile.<br>Fun fact: live it up , let no one lie to you , learn more,and live the life yp.  
+I’m currently Building scalable full-stack applications with modern architectures,Contributing to meaningful open-source projects.<br> I’m looking to collaborate on anything with anyone.<br> I’m looking for help with organizations and enterprises.<br> Ask me if you want to or have anything to ask.<br> How to reach me, all link in my profile.<br>Fun fact: live it up , let no one lie to you , learn more,and live the life yp.  
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&show_icon=treu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
