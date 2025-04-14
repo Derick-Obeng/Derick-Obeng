@@ -99,8 +99,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as a Backend Developer.
-- 🌱 I’m currently learning java as my main language.
+🔭 I’m currently working to acheive great things.
+- 🌱 I’m a React Native Developer .
 - 👯 I’m looking to collaborate on anything with anyone.
 - 🤔 I’m looking for help with organizations and enterprises.
 - 💬 Ask me if you want to or have anything to ask.
