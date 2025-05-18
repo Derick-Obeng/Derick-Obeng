@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 ----
 
-[[my Roadmap projects](https://roadmap.sh/projects/github-user-activity/solutions?u=669f90b5da00e39c49d629ff)]
+[![my Roadmap projects](https://roadmap.sh/projects/github-user-activity/solutions?u=669f90b5da00e39c49d629ff)]
 
 ----
 
