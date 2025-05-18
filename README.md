@@ -10,7 +10,7 @@
 ---
 
 
-**a FULL STACk DEVELOPER | DevOPs | Cyber intrested**.
+**a FULL STACk DEVELOPER | Learner | Cyber intrested**.
 
 ---
 
@@ -18,13 +18,13 @@ I’m currently Building scalable full-stack applications with modern architectu
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&show_icon=treu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Derick-Obeng&theme=material-palenight&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Derick-Obeng&theme=material-palenight&hide_border=false)<br/> -->
 
 
 
----
+<!---
 ### 🔝 Top Repos
-![](https://github-contributor-stats.vercel.app/api?username=Derick-Obeng&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Derick-Obeng&limit=5&theme=material-palenight&combine_all_yearly_contributions=true) -->
 
 --- 
 ## Techs
