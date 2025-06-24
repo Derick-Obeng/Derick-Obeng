@@ -3,18 +3,23 @@
 # Hi there 👋 
  
  
-## 😎it's Derick here  
+## 😎it's Derrick here  
  
   
 
 ---
 
 
-**a FULL STACk DEVELOPER | Learner | Cyber intrested**.
+**a Software Engineer ,FULL STACk DEVELOPER | Learner | Cyber intrested**.
 
 ---
+As a full-stack software engineer with a deep passion for healthcare technology, I’m driven by one mission: to build solutions that make care smarter, faster, and more accessible. From clean architecture to AI integration, I thrive at the intersection of precision and creativity—where code meets impact.
 
-I’m currently Building scalable full-stack applications with modern architectures,Contributing to meaningful open-source projects.<br> I’m looking to collaborate on anything with anyone.<br> I’m looking for help with organizations and enterprises.<br> Ask me if you want to or have anything to ask.<br> How to reach me, all link in my profile.<br>Fun fact: live it up , let no one lie to you , learn more,and live the life yp.  
+I’ve spent the last few years refining my skills across the stack, contributing to open-source projects, and exploring how tools like Firebase, Stripe, and React Native can power real-time, secure, and scalable applications. Whether I’m modeling relational databases or experimenting with bold typography, I bring curiosity and intention to every line of code.
+
+Now, I’m focused on crafting tools that streamline healthcare workflows and unlock predictive insights through AI. I believe in learning out loud, sharing what I know, and growing with a community of builders who care about purpose as much as performance.
+
+Let’s connect and shape the future of healthtech together. 🚀
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&show_icon=treu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
