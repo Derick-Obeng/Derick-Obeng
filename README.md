@@ -60,7 +60,7 @@ Let’s connect and shape the future of healthtech together. 🚀
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/do.a_doa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DerrickObeng&style=flat-square) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@22_Samuel_TS&style=flat-square) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Derrobe&style=flat-square) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/do.a_doa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DerrickObeng&style=flat-square) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@drick_dd&style=flat-square) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Derrobe&style=flat-square) 
 
 
 ---
