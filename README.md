@@ -20,10 +20,10 @@ I’ve spent the last few years refining my skills across the stack, contributin
 Now, I’m focused on crafting tools that streamline healthcare workflows and unlock predictive insights through AI. I believe in learning out loud, sharing what I know, and growing with a community of builders who care about purpose as much as performance.
 
 Let’s connect and shape the future of healthtech together. 🚀
-
+<!--
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Derick-Obeng&show_icon=treu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Derick-Obeng&theme=material-palenight&hide_border=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Derick-Obeng&theme=material-palenight&hide_border=false)<br/> -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Derick-Obeng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 🔭 I’m currently working to acheive great things.
 - 🌱 I’m a React Native Developer .
 - 👯 I’m looking to collaborate on anything with anyone.
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: live it up , let no one lie to you , learn more.
 -  
 
-
+-->
 
 ----
 
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 -let say we all trynna make it 🥇.  
 -that is a great thing 👍.  
 -and we all also wants it very early ⏩ 🚤  
--never mi
+-never mind
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://avatars0.githubusercontent.com/u/14798731?s=1000&v=10&backgroundColor=black)
 
