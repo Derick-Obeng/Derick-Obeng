@@ -13,7 +13,7 @@
 **a Software Engineer ,FULL STACk DEVELOPER | Learner | Cyber intrested**.
 
 ---
-As a full-stack software engineer with a deep passion for healthcare technology, I’m driven by one mission: to build solutions that make care smarter, faster, and more accessible. From clean architecture to AI integration, I thrive at the intersection of precision and creativity—where code meets impact.
+As a leaner with a deep passion for healthcare technology, I’m driven by one mission: to build solutions that make care smarter, faster, and more accessible. From clean architecture to AI integration, I thrive at the intersection of precision and creativity—where code meets impact.
 
 I’ve spent the last few years refining my skills across the stack, contributing to open-source projects, and exploring how tools like Firebase, Stripe, and React Native can power real-time, secure, and scalable applications. Whether I’m modeling relational databases or experimenting with bold typography, I bring curiosity and intention to every line of code.
 
